@@ -5,4 +5,25 @@ body {
 
 main {
   padding: 40px;
+  display: flex;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #666;
+}
+
+aside {
+  width: 220px;
+  background-color: #1f2937;
+  padding: 20px;
+  color:#f5f5f5;
+}
+
+ul {
+  list-style: none;
 }
